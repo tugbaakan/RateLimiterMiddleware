@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "RCspBOx3Dn8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nuevohp\\disc_folder\\kisiselBelgeler\\GITHUB\\ratelimiter_fixedwindow\\RateLimiterMiddleware\\RateLimiterMiddleware\\RateLimiterMiddleware\\RateLimiterMiddleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nuevohp\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\Nuevohp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nuevohp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nuevohp\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Nuevohp\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Nuevohp\\.nuget\\packages\\stackexchange.redis\\2.11.8\\stackexchange.redis.2.11.8.nupkg.sha512",
+    "C:\\Users\\Nuevohp\\.nuget\\packages\\system.io.hashing\\10.0.2\\system.io.hashing.10.0.2.nupkg.sha512",
+    "C:\\Users\\Nuevohp\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
